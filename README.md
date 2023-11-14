@@ -37,13 +37,13 @@ Client
 
 Usage
 
-    Once the client is running, it will prompt you to enter a nickname.
-    You can send messages to the chat by typing them in the terminal and pressing Enter.
-    To change your nickname, type /nick newnickname and press Enter.
-    To quit the chat, type /q and press Enter.
+  Once the client is running, it will prompt you to enter a nickname.
+  You can send messages to the chat by typing them in the terminal and pressing Enter.
+  To change your nickname, type /nick newnickname and press Enter.
+  To quit the chat, type /q and press Enter.
 
 Important Notes
 
-    Ensure that you have Java installed on your system.
-    The server and client must be run on the same machine.
-    Adjust firewall settings if necessary to allow connections on port 9999.
+   Ensure that you have Java installed on your system.
+   The server and client must be run on the same machine.
+   Adjust firewall settings if necessary to allow connections on port 9999.
